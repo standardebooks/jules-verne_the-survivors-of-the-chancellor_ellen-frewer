@@ -59,7 +59,7 @@
 		<meta property="group-position" refines="#collection">13</meta>
 		<dc:description id="description">A record of the ill-fated voyage of the Chancellor as told by one of the passengers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Desiring a more romantic crossing of the Atlantic, Englishman &lt;abbr&gt;J. R.&lt;/abbr&gt; Kazallon decides to forgo a steamship and instead sets sail on the &lt;i&gt;Chancellor&lt;/i&gt;, a large three mast sailing ship. What follows is a classic nautical adventure, containing tragedy, much suffering, and some horror. Despite the grim subject matter, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; still finds space to include ample descriptions of geology, biology, and meteorology. This is novel number 13 in the &lt;a href="https://standardebooks.org/collections/voyages-extraordinaires"&gt;&lt;i lang="fr"&gt;Voyages Extraordinaires&lt;/i&gt;&lt;/a&gt; collection.&lt;/p&gt;
+			&lt;p&gt;Desiring a more romantic crossing of the Atlantic, Englishman &lt;abbr&gt;J. R.&lt;/abbr&gt; Kazallon decides to forgo a steamship and instead sets sail on the &lt;i&gt;Chancellor&lt;/i&gt;, a large three-mast sailing ship. What follows is a classic nautical adventure, told in the form of a series of diary entries and filled with tragedy, suffering, and even horror. Despite the grim subject matter, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; still finds space to include ample descriptions of geology, biology, and meteorology.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1652</dc:source>
@@ -99,6 +99,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
