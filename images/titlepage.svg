@@ -27,8 +27,8 @@
 			font-size: 46.78362656px;
 		}
 	</style>
-	<text class="title" x="700" y="130">THE SURVIVORS</text>
-	<text class="title" x="700" y="230">OF THE CHANCELLOR</text>
+	<text class="title" x="700" y="130">THE SURVIVORS OF</text>
+	<text class="title" x="700" y="230">THE CHANCELLOR</text>
 	<text class="author" x="700" y="390">JULES VERNE</text>
 	<text class="contributor-descriptor" x="700" y="580">translated by</text>
 	<text class="contributor" x="700" y="640">ELLEN FREWER</text>
