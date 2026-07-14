@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Survivors of the Chancellor: Diary of J. R. Kazallon, Passenger</dc:title>
 		<meta property="file-as" refines="#fulltitle">Survivors of the Chancellor, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Sea stories</dc:subject>
 		<dc:subject id="subject-2">Ship captains⁠--Fiction</dc:subject>
 		<dc:subject id="subject-3">Shipwrecks⁠--Fiction</dc:subject>
