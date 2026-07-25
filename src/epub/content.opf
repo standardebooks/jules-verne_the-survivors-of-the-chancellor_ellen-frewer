@@ -38,10 +38,10 @@
 		<meta property="file-as" refines="#fulltitle">Survivors of the Chancellor, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Sea stories</dc:subject>
-		<dc:subject id="subject-2">Ship captains⁠--Fiction</dc:subject>
-		<dc:subject id="subject-3">Shipwrecks⁠--Fiction</dc:subject>
-		<dc:subject id="subject-4">Shipwreck victims⁠--Fiction</dc:subject>
-		<dc:subject id="subject-5">Cargo ships⁠--Fiction</dc:subject>
+		<dc:subject id="subject-2">Ship captains--Fiction</dc:subject>
+		<dc:subject id="subject-3">Shipwrecks--Fiction</dc:subject>
+		<dc:subject id="subject-4">Shipwreck victims--Fiction</dc:subject>
+		<dc:subject id="subject-5">Cargo ships--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85119251</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
