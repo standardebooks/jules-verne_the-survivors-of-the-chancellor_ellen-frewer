@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jules-verne/the-survivors-of-the-chancellor/ellen-frewer</dc:identifier>
 		<dc:date>2021-10-04T15:02:35Z</dc:date>
@@ -57,10 +57,10 @@
 		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
 		<meta property="collection-type" refines="#collection">series</meta>
 		<meta property="group-position" refines="#collection">13</meta>
-		<dc:description id="description">A record of the ill-fated voyage of the Chancellor as told by one of the passengers.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A record of the ill-fated voyage of the Chancellor as told by one of the passengers.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Desiring a more romantic crossing of the Atlantic, Englishman &lt;abbr&gt;J. R.&lt;/abbr&gt; Kazallon decides to forgo a steamship and instead sets sail on the &lt;i&gt;Chancellor&lt;/i&gt;, a large three-mast sailing ship. What follows is a classic nautical adventure, told in the form of a series of diary entries and filled with tragedy, suffering, and even horror. Despite the grim subject matter, &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt; still finds space to include ample descriptions of geology, biology, and meteorology.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1652</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100497179</dc:source>
